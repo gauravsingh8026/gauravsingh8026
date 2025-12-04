@@ -1,7 +1,10 @@
 <!-- Profile README for gauravsingh8026 -->
 
-<h1 align="center">🤗 Hi, I'm Gaurav Singh</h1>
-<p align="center"><b>Full-stack developer shipping ideas faster than I center divs.<br/>Builder at heart, learner by design.</b></p>
+# 👋🏻 Hey, I’m Gaurav
+
+**“Full-stack developer shipping ideas faster than I center divs. Builder at heart, learner by design.”**
+
+> **“Keep calm and keep *Kam se kam*”** 🤗
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -54,18 +57,42 @@
   </sub>
 
 ---
+### 🧠 Core Vibe
+
+* Logic-first, buzzword-later
+* Slow onset, strong finish (like GitHub Actions runner)
+* Introvert but unfairly helpful (the quiet dev who debugs *you* before himself 😌)
+
+---
+
+## 🚀 Technologies & Tools
+
+**Main stack (priority order):**
+* **JavaScript:** Node.js, React, Next.js
+* **Python**
+* **Cloud:** AWS, Google Cloud
+* **Data + Cache:** PostgreSQL, Redis
+* **Also speak:** PHP, C#, C#
+* **Exp:** 10+ years of shipping features & wrestling prod dragons 🐉
+
+---
+### ☁️ Cloud Life Fun Facts
+
+* Coded before AI autocomplete, so bugs are **organic & artisanal**
+* Multi-cloud by destiny, not trend 😎
+---
+### 🧩 Side Quests
+
+* System design brain gyms
+* Stock market curiosity + analysis 📈
+* Hyping minor UI victories for team morale 🤟🏻
+
+---
 
 ## 🌐 Find Me Online
 
 - [Twitter/X](https://x.com/Leapofcode)
 - [LinkedIn](https://www.linkedin.com/in/gaurav-singh-239755a9/)
-
----
-
-## 💬 Favorite Quote
-
-> "Keep calm and keep Kam se kam"  
-> <sub><i>काम से कम ("Kam se kam") — Do at least as much as is needed, stay calm, and focus on the essentials.</i></sub>
 
 <br/>
 
